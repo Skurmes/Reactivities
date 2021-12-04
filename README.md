@@ -1,2 +1,0 @@
-# Reactivities
- Tutorial - Social Media
