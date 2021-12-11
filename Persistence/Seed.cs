@@ -85,7 +85,7 @@ namespace Persistence
                     Date = DateTime.Now.AddMonths(6),
                     Description = "Activity 6 months in future",
                     Category = "music",
-                    City = "London",
+                    City = "Ada",
                     Venue = "Roundhouse Camden",
                 },
                 new Activity
