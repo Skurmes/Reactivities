@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tx8v2ZaTBXUYdsudIgaq4q6IwpwW4i/dJiL4t/Z1Qqj8yHjqCTaMCqMMRLSX1aOpF/JRy4rI85aSB/WbY5mjpg==",
+  "dgSpecHash": "ckhbWgvwm6sdlyXbrgthLfN4sAf6JqSxszjZIsgFMdvpcEFf1GbU21RMbX9zGovfddli8JRmEO4o8SxfUYFE2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\astro\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\astro\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\astro\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\astro\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "C:\\Users\\astro\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\astro\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
