@@ -14,7 +14,7 @@ namespace Persistence
             if (context.Activities.Any()) return;
             //Checks to see if we have an activities and return them..
             //If no list of activities is there, then create a new list.
-            var activities = new List<Activity>
+             var activities = new List<Activity>
             {
                 new Activity
                 {
@@ -58,8 +58,8 @@ namespace Persistence
                     Date = DateTime.Now.AddMonths(3),
                     Description = "Activity 3 months in future",
                     Category = "drinks",
-                    City = "London",
-                    Venue = "Another pub",
+                    City = "Ada",
+                    Venue = "The Village",
                 },
                 new Activity
                 {
